@@ -17,7 +17,7 @@ This project presents a computational analysis of an airfoil to study its aerody
 ## Visual Results
 
 ### Pressure Contour
-![Pressure](Images/pressure.png)
+![pressure](pressure.png)
 
 ### Velocity Contour
 ![Velocity](Images/velocity.png)
