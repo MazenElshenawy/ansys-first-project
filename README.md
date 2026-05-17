@@ -20,10 +20,10 @@ This project presents a computational analysis of an airfoil to study its aerody
 ![pressure](pressure.png)
 
 ### Velocity Contour
-![Velocity](Images/velocity.png)
+![velocity](velocity.png)
 
 ### Mesh
-![Mesh](Images/mesh.png)
+![meshing](meshing.png)
 
 ## Key Learnings
 - Understanding aerodynamic behavior
